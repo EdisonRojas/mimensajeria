@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-			'username' => 'testmiraditaloja@gmail.com',
+			'username' => '',
 
 
 	/*
@@ -94,7 +94,7 @@ return array(
 	|
 	*/
 
-	'password' => 'XHGqP3OjFKuJZ-IZGu_DPg',
+	'password' => '',
 
 	/*
 	|--------------------------------------------------------------------------
